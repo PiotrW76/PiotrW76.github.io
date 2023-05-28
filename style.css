@@ -24,3 +24,10 @@ nav{
     border:5px solid green;
     margin-left: 10px;
  }
+ .bodyHeader{
+border: 2px dashed blue;
+text-align: center;
+ }
+ img{
+    max-width: 100%;
+ }
