@@ -1,3 +1,26 @@
-body{
-background: black;
+/*
+SELEKTOR{
+WŁAŚCIWOŚĆ: WARTOŚĆ
 }
+*/ 
+body{
+background: rgba(164, 246, 224, 0.726);
+}
+nav{
+    border: 2px dashed red; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    }
+    .navUL{
+        border: 2px dashed blue;
+        list-style: none;
+        padding: 10px 20px 40px 80px;
+        margin: 0;
+        display: flex;
+    }
+ .navUL li{
+    border:5px solid green;
+    margin-left: 10px;
+ }
